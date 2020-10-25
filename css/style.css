@@ -1,0 +1,65 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+body{
+    background-color: rgba(247, 175, 157, 0.849);
+}
+.box{
+    width: 270px;
+    height: 390px;
+    background-color: rgb(245, 240, 245);
+    border-radius: 15px;
+    position: relative;
+    top: 130px;
+    left: 520px;
+    box-shadow: 1px 5px 10px 1px rgba(56, 29, 42, 0.349);
+}
+p{
+    color: rgb(80, 80, 80);
+    font-weight: 500;
+}
+.box-content{
+    width: 80%;
+    height: 70%;
+    position: relative;
+    left: 10%;
+}
+h1{
+    font-family: 'Source Sans Pro', sans-serif;
+    color: #353B3C;
+    text-align: center;
+    padding-top: 25px;
+}
+.mensaje{
+    font-family: 'Tajawal', sans-serif;
+    color: rgb(117, 129, 131);
+    text-align: center;
+    padding-top: 20px;
+    margin-bottom: 15px;
+}
+button{
+    width: 140px;
+    padding: 1px;
+    padding-bottom: 3px;
+    background-color: rgb(255, 255, 255);
+    border: none;
+    border: 1px solid rgba(53, 59, 60, 0.13);
+    border-radius: 15px;
+    position: relative;
+    left: 20%;
+    margin-top: 10px;
+    cursor: pointer;
+}
+img{
+    position: relative;
+    top: 4px;
+}
+.frutas{
+    padding: 2px;
+    margin-bottom: 1px;
+}
+span{
+    color: #353B3C;
+    font-family: 'Tajawal', sans-serif;
+}
